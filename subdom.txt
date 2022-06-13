@@ -1,0 +1,77 @@
+DirBuster 1.0-RC1 - Report
+http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project
+Report produced on Wed Jun 08 12:52:45 EDT 2022
+--------------------------------
+
+https://www.sreenidhi.edu.in:443
+--------------------------------
+Directories found during testing:
+
+Dirs found with a 403 response:
+
+/cgi-bin/
+/download/
+/doc/
+/News/
+/photos/
+/assets/
+/test/
+/includes/
+/applications/
+/database/
+/alumni/
+/doc/profile/
+/doc/photo/
+/photogallery/
+/assets/images/
+/admin/images/
+/admin/icons/
+/photos/sports/
+/photos/library/
+
+Dirs found with a 200 response:
+
+/
+/admin/
+/webmail/
+
+
+--------------------------------
+Files found during testing:
+
+Files found with a 200 responce:
+
+/index.php
+/downloads.php
+/contact.php
+/sitemap.php
+/mail.php
+/footer.php
+/header.php
+/faqs.php
+/webmail.sql
+/doc/it.pdf
+/webmail.asa
+/doc/test.pdf
+/webmail.php
+/includes/main.php
+/feedbackform.php
+/admin/index.php
+/admin/contact.php
+/admin/events.php
+/admin/main.php
+/webmail.bak
+/admin/header.php
+/webmail.zip
+/webmail.pdf
+
+Files found with a 500 responce:
+
+/photogallery.php
+
+Files found with a 302 responce:
+
+/pagecontents.php
+
+
+--------------------------------
