@@ -1,6 +1,8 @@
+import sys.argv
 
-url = input("[+] Enter Target URL: ")
-subdom = open("subdom.txt", "r")
+url = sys.argv[1]
+wlist = sys.argv[2]
+subdom = open(wlist, "r")
 
 
 for sd in subdom:
